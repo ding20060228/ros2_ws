@@ -3,7 +3,7 @@
 <package format="3">
   <name>demo_pkg</name>
   <version>0.0.0</version>
-  <description>我的第一个 ROS2 功能包</description>
+  <description>张三分支的描述</description>
   <maintainer email="zhangsan@example.com">root</maintainer>
   <license>TODO: License declaration</license>
 
